@@ -1,4 +1,15 @@
+
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# Research
+DOMAIN-SUFFIX,www.sciencedirect.com
+DOMAIN-SUFFIX,www.cnki.net
+DOMAIN-SUFFIX,www.cnki.net
+DOMAIN-SUFFIX,hrbeu.edu.cn
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,wanfangdata.com.cn
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,ieeexplore.ieee.org
 
 # MyList
 # 域名后缀匹配
