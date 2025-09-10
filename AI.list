@@ -6,7 +6,6 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
-# DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,msq.pub,PROXY
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,outlier.ai
@@ -38,7 +37,6 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,genspark.ai
 
-# DOMAIN-SUFFIX,grok.com
 # DOMAIN-SUFFIX,x.com
 # DOMAIN-SUFFIX,x.ai
 
@@ -46,3 +44,4 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
