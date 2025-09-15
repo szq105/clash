@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msq.pub,PROXY
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,outlier.ai
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -44,4 +43,5 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
